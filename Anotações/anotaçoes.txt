@@ -1,2 +1,18 @@
-Links uteis
-tarefas
+Comandos úteis sobre git:
+
+# git config - Fundamental para projetos colaborativos onde essse comendo serve para você
+configurar a sua identidade de usuário, colocando informações como o email e nome que vão
+subir a cada commit.
+
+Exemplos:
+
+$ git config –global user.name “Seu nome”
+$ git config –global user.email “Seu email”
+
+# git init - Comando para criar um novo projeto no git, ele vai criar um novo repositório 
+em branco.
+
+# git clone - esse comando cria uma cópia de um repositório já existente.
+
+Exemplo:
+git clone <URL do seu projeto>
